@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<staff>
+		<staff_ID>1</staff_ID>
+		<staff_fname>Jim</staff_fname>
+		<staff_lname>Martin</staff_lname>
+	</staff>
+	<staff>
+		<staff_ID>2</staff_ID>
+		<staff_fname>Steve</staff_fname>
+		<staff_lname>Platen</staff_lname>
+	</staff>
+	<staff>
+		<staff_ID>3</staff_ID>
+		<staff_fname>John</staff_fname>
+		<staff_lname>Tempe</staff_lname>
+	</staff>
+	<staff>
+		<staff_ID>4</staff_ID>
+		<staff_fname>Peter</staff_fname>
+		<staff_lname>Andrews</staff_lname>
+	</staff>
+</root>
